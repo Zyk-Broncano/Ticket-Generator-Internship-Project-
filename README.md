@@ -30,5 +30,3 @@
 <h2>✅ Status:</h2>
 <p><strong>Published and integrated into the company's live system</strong> as part of their official customer service tools.</p>
 
-<h2>📌 Author:</h2>
-<p>Zyk R. Broncano — Internship Developer</p>
