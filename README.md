@@ -16,24 +16,36 @@
 
 <h2>📸 Screenshots:</h2>
 
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/user-attachments/assets/c18a1334-48b3-49a9-a47c-ff590c419235" alt="Dashboard Overview" width="600">
+  <br><i>Description: List of transactions using the Excel files that were uploaded. </i></br>
+
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dbdb2be3-fc19-4255-a996-2f03c2cea03e" alt="Uploading Files via excel" width="600">
+  <br><i>Description: This page allows you to upload an Excel file with all of the data in it.</i></br>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cbfba93c-d358-4e6e-9e8e-422d1badca93" alt="Agents & Ticket lists" width="600">
+  <br><i>Description: List of agents and their tickets. </i></br>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4755bb4f-1d6b-4278-8471-316ab433ce31" alt="Printed Ticket Preview 1" width="600">
+  <br>Printing Layout 1</br>
+
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a14b286a-1b94-41d6-8cb2-679931767dc1" alt="Printed Ticket Preview 2" width="600">
+  <br>Printing Layout 2</br>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f064a20-40ad-4351-8a9c-b83a7b9d34b4" alt="Printed Ticket Preview 3" width="600">
+  <br>Printing Layout 3</br>
 </p>
 
 <h2>🖥️ Tech Stack Used:</h2>
